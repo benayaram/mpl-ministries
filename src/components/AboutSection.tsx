@@ -42,8 +42,27 @@ const AboutSection: React.FC = () => {
             </div>
             <h3 className="text-2xl font-bold mb-4">Our Vision</h3>
             <p className="leading-relaxed">
-              To be a beacon of hope and transformation in our community, raising disciples 
-              who shine Christ's light in darkness and demonstrate His love through service.
+              MPL Team's Vision:
+
+- Spiritual development of the young generation
+- Personal evangelism
+- Social-spiritual services
+- To be blessed and share God's love through actions
+
+Their motto is to spread love and blessings, inspiring others through their faith and service.
+            </p>
+          </div>
+          <div className="bg-gradient-to-br from-gold to-yellow-400 rounded-2xl p-8 text-royal-blue transform hover:scale-105 transition-transform duration-300">
+            <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mb-6">
+              <Heart className="w-8 h-8 text-royal-blue" />
+            </div>
+            <h3 className="text-2xl font-bold mb-4">MPL Started</h3>
+            <p className="leading-relaxed">
+              MPL Team was born through the simple faith of one college student. During her college days, she set aside her Friday lunch hours to fast and pray. Soon, a friend joined her, and together they began sharing their testimony with classmates. What started with two members quickly grew into a fellowship — with students from different sections coming together to worship God.
+
+After college, though members were scattered, the grace of God brought them back together through technology. Today, MPL Team is a vibrant fellowship, connecting youth from different places, encouraging them to grow personally and spiritually.
+
+From the very beginning, this ministry was rooted in prayer, and by God’s grace, it continues to stand firm in prayer — impacting lives, strengthening faith, and building a Christ-centered community for the next generation.
             </p>
           </div>
         </div>
