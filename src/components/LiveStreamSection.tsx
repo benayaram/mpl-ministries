@@ -29,7 +29,7 @@ const LiveStreamSection: React.FC = () => {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/@mplministries/streams"
+                src="https://www.youtube.com/embed/gDZ7poxyIlk?si=74A90Wia-v29enqm"
                 title="MPL Ministries Live Stream"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
